@@ -1,6 +1,6 @@
 ![github-header-image](https://github.com/AnnaAaBrekke/AnnaAaBrekke/assets/143593909/cf6546ce-6dc4-45ff-b60f-b3f1f3a8a6e5)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,discord,figma,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,discord,figma,netlify,github)](https://skillicons.dev)
 
 # 👋 Hey, I'm Anna Aasprong Brekke 
 
