@@ -1,6 +1,4 @@
-![github-header-image](https://github.com/AnnaAaBrekke/AnnaAaBrekke/assets/143593909/cf6546ce-6dc4-45ff-b60f-b3f1f3a8a6e5)
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,discord,figma,netlify,github)](https://skillicons.dev)
+<img width="1438" alt="Skjermbilde 2024-06-07 kl  13 14 48" src="https://github.com/AnnaAaBrekke/portofolio/assets/143593909/283670fa-afd5-4823-909e-a89ca851c07e">
 
 # 👋 Hey, I'm Anna Aasprong Brekke 
 
@@ -20,8 +18,10 @@ I'm a passionate frontend developer student who has just completed my first year
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/annabrekke/)
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaAaBrekke&layout=compact&theme=radical)
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AnnaAaBrekke&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaAaBrekke&layout=compact&theme=radical)
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,discord,figma,netlify,github)](https://skillicons.dev)
 
 ## 📸 My Image Portfolio
 - [Wirestock Portfolio](https://wirestock.io/annaaab)
