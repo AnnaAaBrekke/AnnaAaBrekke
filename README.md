@@ -10,7 +10,9 @@ I'm a passionate frontend development student in my final year of studies. With 
 - 💬 **Ask me about**: Frontend development, teaching, handball, and travel tips.
 - 📫 **How to reach me**: [annabrekke98@gmail.com](mailto:annabrekke98@gmail.com)
 - ⚡ **Fun fact**: I wrote my master's thesis about "algorithm awareness" in social studies.
-- 😄 **Pronouns**: She/Her
+
+## 🚀 Tools & Technologies I Use
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,discord,figma,netlify,github,babel,cypress,jest,nodejs,git,npm,vite,vscode)](https://skillicons.dev)
 
 ## 📫 Contact Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-aasprong-brekke-a571132b0/)
@@ -20,8 +22,6 @@ I'm a passionate frontend development student in my final year of studies. With 
 ## 📊 GitHub Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AnnaAaBrekke&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaAaBrekke&layout=compact&theme=radical)
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,discord,figma,netlify,github)](https://skillicons.dev)
 
 ## 📸 My Image Portfolio
 - [Wirestock Portfolio](https://wirestock.io/annaaab)
