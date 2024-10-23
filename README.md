@@ -20,8 +20,8 @@ I'm a passionate frontend development student in my final year of studies. With 
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/annabrekke/)
 
 ## 📊 GitHub Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AnnaAaBrekke&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaAaBrekke&layout=compact&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AnnaAaBrekke&show_icons=true&theme=radical&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaAaBrekke&layout=compact&theme=radical&cache_seconds=1800)
 
 ## 📸 My Image Portfolio
 - [Wirestock Portfolio](https://wirestock.io/annaaab)
