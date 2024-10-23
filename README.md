@@ -3,10 +3,10 @@
 # 👋 Hey, I'm Anna Aasprong Brekke 
 
 ## 🌼 About Me 
-I'm a passionate frontend developer student who has just completed my first year of studies. I have one more year to go and I'm excited about what the future holds. In addition to my love for coding, I'm an active handball player and enjoy traveling. I hold a master's degree in lecturer and work as a teacher.
+I'm a passionate frontend development student in my final year of studies. With graduation approaching, I’m excited about what the future holds. Besides my interest for coding, I’m an active handball player and enjoy traveling. I also hold a master’s degree in education and work as a teacher.
 
-- 👩🏽‍💻 **I’m currently working on**: Enhancing my JavaScript skills and deploying projects on other static hosting platforms, like Netlify.
-- 🌱 **I’m currently learning**: React and exploring other frameworks.
+- 👩🏽‍💻 **I’m currently working on**: Enhancing my JavaScript skills and optimizing workflow testing.
+- 🌱 **I’m currently learning**: Bootstrap and exploring other CSS Frameworks.
 - 💬 **Ask me about**: Frontend development, teaching, handball, and travel tips.
 - 📫 **How to reach me**: [annabrekke98@gmail.com](mailto:annabrekke98@gmail.com)
 - ⚡ **Fun fact**: I wrote my master's thesis about "algorithm awareness" in social studies.
