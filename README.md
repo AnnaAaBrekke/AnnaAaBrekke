@@ -12,7 +12,7 @@ I'm a frontend developer with a degree in frontend development and a master's in
 - ⚡ **Fun fact**: I wrote my master's thesis about "algorithm awareness" in social studies.
 
 ## 🚀 Tools & Technologies I Use
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,discord,figma,netlify,github,babel,cypress,jest,nodejs,git,npm,vite,vscode,tailwind,sass,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,discord,figma,netlify,github,babel,cypress,jest,nodejs,git,npm,vite,vscode,tailwind,sass,bootstrap,react)](https://skillicons.dev)
 
 ## 📫 Contact Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-aasprong-brekke-a571132b0/)
