@@ -3,11 +3,9 @@
 # 👋 Hey, I'm Anna Aasprong Brekke 
 
 ## 🌼 About Me 
-[![Portfolio](https://img.shields.io/badge/https://annabrekke.com/-teal?style=for-the-badge)]((annabrekke.com/))
-
 I'm a frontend developer with a master in education and a degree in frontend development. Since finishing my studies, I've focused on growing my skills through hands-on projects and continuous learning.
 
-
+- 🌐 **Portfolio**: [annabrekke.com](https://annabrekke.com/)
 - 👩🏽‍💻 **Currently working on:** React improvements and testing workflows.
 - 🌱 **Learning:** Advanced React tools, E2E testing, and TypeScript.
 - 💬 **Ask me about**: Frontend development, teaching, or travel tips.
